@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Item
+comment0.text=\r\n\ Item\ class\ is\ the\ parent\ class\ to\ 2\ child\ classes.\ It\ is\ an\ abstract\ class\ that\ holds\ the\ basic\ details\ and\ methods\ \r\n\ to\ construct\ an\ item\ that\ would\ be\ sold\ in\ the\ shop.\r\n\ @author\ (Cruz\ Stella)\r\n\ @version\ (16/05/19)\r\n
+comment1.params=inName\ inPrice
+comment1.target=Item(java.lang.String,\ double)
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment3.params=
+comment3.target=double\ getPrice()
+comment4.params=
+comment4.target=int\ getNumInStock()
+comment5.params=
+comment5.target=int\ getNumSold()
+comment6.params=amount
+comment6.target=void\ receiveStock(int)
+comment7.params=inNumCopies
+comment7.target=boolean\ sell(int)
+comment8.params=
+comment8.target=java.lang.String\ toString()
+numComments=9

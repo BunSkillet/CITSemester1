@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Shop
+comment1.params=inStoreName
+comment1.target=Shop(java.lang.String)
+comment2.params=newItem
+comment2.target=boolean\ addItem(Item)
+comment3.params=searchName
+comment3.target=boolean\ findItem(java.lang.String)
+comment4.params=
+comment4.target=void\ listItems()
+comment5.params=threshold
+comment5.target=void\ listLowStock(int)
+comment6.params=inPlatform
+comment6.target=void\ listEGamesByPlatform(java.lang.String)
+comment7.params=
+comment7.target=void\ calcTotalSales()
+comment8.params=
+comment8.target=void\ processOrderFile()
+numComments=9

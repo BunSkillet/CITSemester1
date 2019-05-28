@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=ElectronicGame
+comment0.text=\r\n\ ElectronicGame\ is\ a\ sub\ class\ to\ Game.\ Its\ purpose\ is\ to\ add\ details\ of\ an\ electronic\ game\ that\ is\ sold\ in\ the\ shop\r\n\r\n\ @author\ (Cruz\ Stella)\r\n\ @version\ (16/05/19)\r\n
+comment1.params=inName\ inPlatform\ inMaxPlayers\ inPrice
+comment1.target=ElectronicGame(java.lang.String,\ java.lang.String,\ int,\ double)
+comment2.params=
+comment2.target=java.lang.String\ getPlatform()
+comment3.params=
+comment3.target=java.lang.String\ toString()
+numComments=4

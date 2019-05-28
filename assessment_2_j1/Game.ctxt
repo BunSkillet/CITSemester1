@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Game
+comment0.text=\r\n\ Game\ is\ a\ sub\ class\ to\ Item.\ Its\ purpose\ is\ to\ add\ details\ of\ a\ game\ that\ is\ sold\ in\ the\ shop\r\n\ @author\ (Cruz\ Stella)\r\n\ @version\ (16/05/19)\r\n
+comment1.params=inName\ inMaxPlayers\ inPrice
+comment1.target=Game(java.lang.String,\ int,\ double)
+comment2.params=
+comment2.target=java.lang.String\ toString()
+numComments=3

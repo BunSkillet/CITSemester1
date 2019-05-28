@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=CD
+comment0.text=\r\n\ CD\ is\ a\ sub\ class\ to\ Item.\ Its\ purpose\ is\ to\ add\ details\ of\ a\ cd\ that\ is\ sold\ in\ the\ shop\r\n\ @author\ (Cruz\ Stella)\r\n\ @version\ (16/05/19)\r\n
+comment1.params=inName\ inArtist\ inPrice
+comment1.target=CD(java.lang.String,\ java.lang.String,\ double)
+comment2.params=
+comment2.target=java.lang.String\ toString()
+numComments=3

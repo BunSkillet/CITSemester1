@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=Property
+comment0.text=\r\n\ @author\ (Cruz\ Stella)\r\n\ @version\ (4/4/19)\r\n
+comment1.params=inId\ inAddress\ inAskingPrice
+comment1.target=Property(int,\ java.lang.String,\ int)
+comment10.params=inSoldPrice
+comment10.target=void\ sell(int)
+comment2.params=inId\ inAddress
+comment2.target=Property(int,\ java.lang.String)
+comment3.params=
+comment3.target=int\ getId()
+comment4.params=
+comment4.target=java.lang.String\ getAddress()
+comment5.params=
+comment5.target=boolean\ getSold()
+comment6.params=
+comment6.target=int\ getAskingPrice()
+comment7.params=
+comment7.target=int\ getSoldPrice()
+comment8.params=
+comment8.target=void\ printDetails()
+comment9.params=inAskingPrice
+comment9.target=void\ setAskingPrice(int)
+numComments=11

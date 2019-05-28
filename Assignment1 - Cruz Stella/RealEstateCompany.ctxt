@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=RealEstateCompany
+comment0.text=\r\n\ @author\ (Cruz\ Stella)\r\n\ @version\ (4/4/19)\r\n
+comment1.params=inName
+comment1.target=RealEstateCompany(java.lang.String)
+comment2.params=inProperty
+comment2.target=void\ addProperty(Property)
+comment3.params=
+comment3.target=void\ printAllProperties()
+comment4.params=
+comment4.target=void\ printSales()
+comment5.params=inId\ inSoldPrice
+comment5.target=void\ sellProperty(int,\ int)
+comment6.params=threshhold
+comment6.target=void\ printCheapPropertiesForSale(int)
+numComments=7

@@ -80,9 +80,6 @@ public class Shop
             if (nextItem.getNumSold() > 0){
                 sales = sales + (nextItem.getPrice() * nextItem.getNumSold());
             }
-            else {
-                sales = sales + nextItem.getPrice();
-            }
         }
         System.out.println(storeName + " has sold " + total + " items for a total of " + sales);
         System.out.println("");

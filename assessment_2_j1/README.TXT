@@ -1,6 +1,12 @@
-PROJECT TITLE: Shop - Asessment 2 java 1
-PURPOSE OF PROJECT: This project was created to meet the criteria of assessment 2 of the introductory to OOP class assessment 2.
-		    This project was created in bluej 
-DATE: 28/5/19
-HOW TO START THIS PROJECT: Start bluej and press ctrl+o then select this folder to open.
-AUTHORS: Cruz M Stella
+------------------------------------------------------------------------
+This is the project README file. Here, you should describe your project.
+Tell the reader (someone who does not know anything about this project)
+all he/she needs to know. The comments should usually include at least:
+------------------------------------------------------------------------
+
+PROJECT TITLE:
+PURPOSE OF PROJECT:
+VERSION or DATE:
+HOW TO START THIS PROJECT:
+AUTHORS:
+USER INSTRUCTIONS:

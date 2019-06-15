@@ -1,0 +1,6 @@
+Amy Smith Superstoreorders processed Fri Jun 07 17:27:00 AEST 2019
+Abba Gold Purchase of 2 copies successfully processed.
+Chess Purchase of 0 copies could not be processed.
+Shrek Purchase of 0 copies could not be processed.
+Doom Purchase of 1 copies successfully processed.
+AFL Purchase of 0 copies could not be processed.
